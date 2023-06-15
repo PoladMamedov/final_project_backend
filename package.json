@@ -7,6 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "server": "nodemon server.js"
   },
+  "type": "module",
   "repository": {
     "type": "git",
     "url": "https://gitlab.com/dan-it/js-course-development/fe-final-backend.git"
